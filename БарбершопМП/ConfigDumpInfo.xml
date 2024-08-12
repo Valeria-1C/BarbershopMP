@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.Сотрудники" id="37e3985b-9a4d-4466-a053-5f15db2abc59" configVersion="60b77e4977aea54199479bf8781d290000000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора" id="f777283b-f087-4f5e-871c-50b369f929d9" configVersion="2b6604f2d53cd942bc368642dcaed8ca00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора.Form" id="f777283b-f087-4f5e-871c-50b369f929d9.0" configVersion="f1d4a4b3aeb8664281861f279dc54c5400000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="49975c8c-494b-4a1a-a629-3d30e77d7956" configVersion="8cd3b16446600847b57fdbb9e15438c200000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="49975c8c-494b-4a1a-a629-3d30e77d7956.0" configVersion="97ebfdf623365a4cb82817d2a5393f6b00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="c8d81238-6729-4b1d-81ee-50ff5e4e6787" configVersion="ec83edc276c46c4095e50e1d71538a4c00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="c8d81238-6729-4b1d-81ee-50ff5e4e6787.0" configVersion="57427491e92e5541a0edaff7b1cdc06d00000000"/>
+		<Metadata name="Catalog.Услуги" id="0671f244-3dbd-4ca9-81b2-a43acd1e0fb9" configVersion="b12ea687d8df194ba6e80326796fd6b300000000">
+			<Metadata name="Catalog.Услуги.Attribute.Стоимость" id="f4f0dbfc-1dee-49d6-91eb-24365eef5b78"/>
+		</Metadata>
+		<Metadata name="Catalog.Услуги.Form.ФормаСписка" id="5909ba7f-de5d-49b4-b2ba-a7976b9cfd35" configVersion="dbe341ef18a60b4fbd1e1373110e4e2d00000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаСписка.Form" id="5909ba7f-de5d-49b4-b2ba-a7976b9cfd35.0" configVersion="39d15c866ebf9846abdf598c2812e6a700000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента" id="407b665d-5e18-452b-8092-bab2c54994c2" configVersion="035bb6700dfde44f996cdf32c1ac405700000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента.Form" id="407b665d-5e18-452b-8092-bab2c54994c2.0" configVersion="66e3f7c35085c944a21751a8874495e700000000"/>
+		<Metadata name="Configuration.Barbershop" id="5f48e9e7-361a-40a0-bd3e-20121d261f35" configVersion="4db92bc1c2450a4eb25df0ab13b71c9200000000"/>
+		<Metadata name="Configuration.Barbershop.HomePageWorkArea" id="cf399a77-546c-4d8e-9c11-d6b7934fb329.8" configVersion="07a48e2e74c2f0478fa8e428ad05362d00000000"/>
+		<Metadata name="DataProcessor.ЗаписьНаУслуги" id="d5b4689f-1cd5-4355-b44f-013b5541e024" configVersion="f921832331dd904c8e6b8e37ac1a753100000000">
+			<Metadata name="DataProcessor.ЗаписьНаУслуги.Attribute.ДатаЗаписи" id="708e89a6-e780-47e0-8aed-32b1598c7a26"/>
+			<Metadata name="DataProcessor.ЗаписьНаУслуги.Attribute.Услуга" id="cdf1009d-fa74-4c88-9a56-aeef6ec51b62"/>
+			<Metadata name="DataProcessor.ЗаписьНаУслуги.Attribute.Сотрудник" id="f4877f22-e0f0-4295-9c77-5cfc838efd27"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ЗаписьНаУслуги.Form.Форма" id="3a8b5401-bc1e-4071-ada3-9bad408bce6c" configVersion="291c1a6b4469654eb8bf4458291a9c9600000000"/>
+		<Metadata name="DataProcessor.ЗаписьНаУслуги.Form.Форма.Form" id="3a8b5401-bc1e-4071-ada3-9bad408bce6c.0" configVersion="d729676f797b8946869fe57b572012c900000000"/>
+		<Metadata name="Document.ЗаписьКлиента" id="29478dc8-be04-42df-84ed-c0475ab363f0" configVersion="3daef86ca555624ba186e412d875e8f900000000">
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="14b2e1a6-92b3-4d34-b101-56de3063cd12"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="2ee0e06c-1c08-45c8-8e53-d9983d7627b0"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="944ae124-1d63-4037-a500-561c42d250a9"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="e0ecd26e-021e-4cb9-bf5b-0df173f82894"/>
+		</Metadata>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="ce7a581e-fb14-43c3-8aa0-afc52fd79f37" configVersion="1b8cdd6cd9dfee4daa3a7c43df6e624300000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="ce7a581e-fb14-43c3-8aa0-afc52fd79f37.0" configVersion="48f783f33c6a7349b517329c446ebe9900000000"/>
+		<Metadata name="Language.Русский" id="73e6e605-fad2-4a1a-8357-96ebb820d456" configVersion="343d56f62595d4499b98ebe148c550d000000000"/>
+		<Metadata name="Style.Барбершоп" id="d5ebf769-e32d-4348-9518-58adeedcadd0" configVersion="182e374b1d0c874bb543e51a26ace76a00000000"/>
+		<Metadata name="Style.Барбершоп.Style" id="d5ebf769-e32d-4348-9518-58adeedcadd0.0" configVersion="be6817c4b494ef40870d30be8751ff8c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
